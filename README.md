@@ -1,2 +1,2 @@
 # StudentMarkManagementMRTeam
-This is a simple software for manageing students marks for first term, mid term, final term and generate grades
+This is a simple software for managing students marks for first term, midterm, final term and generate grades
